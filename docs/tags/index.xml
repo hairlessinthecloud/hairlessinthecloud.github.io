@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hairless in the Cloud - Microsoft 365 - Security und Collaboration</title>
-    <link>https://hairlessinthecloud.com/tags/</link>
-    <description>Recent content in Tags on Hairless in the Cloud - Microsoft 365 - Security und Collaboration</description>
+    <title>Tags on Hairless in the Cloud</title>
+    <link>https://www.hairlessinthecloud.com/tags/</link>
+    <description>Recent content in Tags on Hairless in the Cloud</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language><atom:link href="https://hairlessinthecloud.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-DE</language><atom:link href="https://www.hairlessinthecloud.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

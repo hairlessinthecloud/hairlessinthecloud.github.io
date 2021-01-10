@@ -1,0 +1,59 @@
+.othersidebar {
+  text-align: center;
+  color: rgba(255,255,255,.5);
+
+}
+
+aside.sidebar{
+  text-align: left;
+}
+
+aside .sidebar-sticky {
+    top: 1rem;
+}
+.sidebar-about h1 {
+  display: none;
+}
+
+div.sidebar-about {
+  color: #fff;
+}
+
+@media (min-width: 48em) {
+  .othersidebar {
+      max-width: 38rem;
+      margin-left: 20rem;
+      margin-right: 2rem;
+      padding-left: 1rem;
+      padding-right: 1rem;
+  }
+  .othersidebarinside{
+    margin-left: 20rem;
+  }
+}
+
+@media (min-width: 64em) {
+  .othersidebar {
+    position: fixed;
+    top: 4rem;
+    right: 0;
+    bottom: 0;
+    width: 18rem;
+    text-align: left;
+    padding-left: 2rem;
+
+  }
+  .othersidebarinside{
+    margin-left: 0rem;
+  }
+  main.content{
+    margin-right: 18rem;
+  }
+}
+
+aside.sidebar{
+  background-image: url(/img/hugo-hairless-hero2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
