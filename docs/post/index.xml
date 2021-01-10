@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hairless in the Cloud</title>
-    <link>https://www.hairlessinthecloud.com/post/</link>
+    <link>https://hairlessinthecloud.github.io/post/</link>
     <description>Recent content in Posts on Hairless in the Cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 18 Dec 2020 10:10:10 +0100</lastBuildDate><atom:link href="https://www.hairlessinthecloud.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Dec 2020 10:10:10 +0100</lastBuildDate><atom:link href="https://hairlessinthecloud.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>062 - Tech Tabu Xmas Special mit GeekSprech</title>
-      <link>https://www.hairlessinthecloud.com/post/062-techtabuxmasspecialmitgeeksprech/</link>
+      <link>https://hairlessinthecloud.github.io/post/062-techtabuxmasspecialmitgeeksprech/</link>
       <pubDate>Fri, 18 Dec 2020 10:10:10 +0100</pubDate>
       
-      <guid>https://www.hairlessinthecloud.com/post/062-techtabuxmasspecialmitgeeksprech/</guid>
+      <guid>https://hairlessinthecloud.github.io/post/062-techtabuxmasspecialmitgeeksprech/</guid>
       <description>&lt;p&gt;In der letzten Folge für 2020 haben wir mit den Kollegen von Geeksprech einen Runde Tech Tabu gespielt. Hört mal rein, wir haben euch die Tabu Begriff eingespielt, damit ihr das Geschehen besser verfolgen könnt.&lt;/p&gt;
 
 &lt;iframe src=&#34;https://anchor.fm/hairlessinthecloud/embed/episodes/062---Tech-Tabu-Xmas-Special-mit-GeekSprech-envv73&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
@@ -20,20 +20,20 @@
     
     <item>
       <title>061 - Oliver Kieselbach über Autopilot</title>
-      <link>https://www.hairlessinthecloud.com/post/061-oliverkieselbach%C3%BCberautopilot/</link>
+      <link>https://hairlessinthecloud.github.io/post/061-oliverkieselbach%C3%BCberautopilot/</link>
       <pubDate>Fri, 04 Dec 2020 10:10:10 +0100</pubDate>
       
-      <guid>https://www.hairlessinthecloud.com/post/061-oliverkieselbach%C3%BCberautopilot/</guid>
+      <guid>https://hairlessinthecloud.github.io/post/061-oliverkieselbach%C3%BCberautopilot/</guid>
       <description>Oliver Kieselbach MVP (Lead Cloud Architect at glueckkanja-gab)
  https://twitter.com/okieselb https://oliverkieselbach.com https://oliverkieselbach.com/2020/12/08/autopilot-manager https://docs.microsoft.com/en-us/mem/autopilot/windows-autopilot   </description>
     </item>
     
     <item>
       <title>060 - Ragnar Heil streamt</title>
-      <link>https://www.hairlessinthecloud.com/post/060-ragnarheilstreamt/</link>
+      <link>https://hairlessinthecloud.github.io/post/060-ragnarheilstreamt/</link>
       <pubDate>Fri, 27 Nov 2020 10:10:10 +0100</pubDate>
       
-      <guid>https://www.hairlessinthecloud.com/post/060-ragnarheilstreamt/</guid>
+      <guid>https://hairlessinthecloud.github.io/post/060-ragnarheilstreamt/</guid>
       <description>&lt;p&gt;Ragnar Heil (Channel Account Manager EMEA Central bei Quest)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/ragnarh&#34;&gt;https://twitter.com/ragnarh&lt;/a&gt;&lt;/li&gt;
@@ -45,10 +45,10 @@
     
     <item>
       <title>059 - FritzBox2Sentinel und ProductivityScore</title>
-      <link>https://www.hairlessinthecloud.com/post/059-fritzbox2sentinelundproductivityscore/</link>
+      <link>https://hairlessinthecloud.github.io/post/059-fritzbox2sentinelundproductivityscore/</link>
       <pubDate>Fri, 20 Nov 2020 10:10:10 +0100</pubDate>
       
-      <guid>https://www.hairlessinthecloud.com/post/059-fritzbox2sentinelundproductivityscore/</guid>
+      <guid>https://hairlessinthecloud.github.io/post/059-fritzbox2sentinelundproductivityscore/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;News&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://emptydc.com/2020/11/13/fritzbox-2-sentinel/&#34;&gt;Fritzbox 2 Sentinal&lt;/a&gt;&lt;/li&gt;
