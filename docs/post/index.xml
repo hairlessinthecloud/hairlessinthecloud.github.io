@@ -6,7 +6,45 @@
     <description>Recent content in Posts on Hairless in the Cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 16 Apr 2021 17:00:00 +0200</lastBuildDate><atom:link href="https://hairlessinthecloud.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 May 2021 17:00:00 +0200</lastBuildDate><atom:link href="https://hairlessinthecloud.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>069 - DrAzureAD and AADInternals</title>
+      <link>https://hairlessinthecloud.github.io/post/069-drazureadandaadinternals/</link>
+      <pubDate>Fri, 28 May 2021 17:00:00 +0200</pubDate>
+      
+      <guid>https://hairlessinthecloud.github.io/post/069-drazureadandaadinternals/</guid>
+      <description>&lt;p&gt;Dr. Nestori Syynimaa (Senior Principal Security Researcher at Secureworks)
+Dr Azure AD, Identity Hacker and Blackhat Speaker
+From Finland, the Author of AADInternals -  Dr Nestori Syynimaa&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/DrAzureAD&#34;&gt;https://twitter.com/DrAzureAD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://o365blog.com/&#34;&gt;https://o365blog.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/nestori/&#34;&gt;https://www.linkedin.com/in/nestori/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe src=&#34;https://anchor.fm/hairlessinthecloud/embed/episodes/069---DrAzureAD-and-AADInternals-e11orqq&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>068 - Staying Up-to-Date with Christian</title>
+      <link>https://hairlessinthecloud.github.io/post/068-stayinguptodatewithchristian/</link>
+      <pubDate>Fri, 23 Apr 2021 17:00:00 +0200</pubDate>
+      
+      <guid>https://hairlessinthecloud.github.io/post/068-stayinguptodatewithchristian/</guid>
+      <description>&lt;p&gt;Christian Heim (Senior Customer Engineer bei Microsoft)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/christian-heim/&#34;&gt;https://www.linkedin.com/in/christian-heim/&lt;/a&gt;
+Christian Keller (Customer Engineer bei Microsoft)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/christian-keller-079b23173/&#34;&gt;https://www.linkedin.com/in/christian-keller-079b23173/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Staying on top of Office 365 Updates&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/staying-on-top-of-office-365-updates/ba-p/1201118&#34;&gt;https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/staying-on-top-of-office-365-updates/ba-p/1201118&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe src=&#34;https://anchor.fm/hairlessinthecloud/embed/episodes/068---Staying-Up-to-Date-with-Christian-evgrc8&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
     <item>
       <title>067 - Microsoft Azure Security Center with Tom and Yuri</title>
       <link>https://hairlessinthecloud.github.io/post/067-microsoftazuresecuritycenterwithtomandyuri/</link>
