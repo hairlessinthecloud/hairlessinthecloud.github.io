@@ -1,1 +1,0 @@
-# hairlessinthecloud.github.io

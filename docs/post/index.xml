@@ -1,165 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Hairless in the Cloud</title>
-    <link>https://hairlessinthecloud.github.io/post/</link>
-    <description>Recent content in Posts on Hairless in the Cloud</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language>
-    <lastBuildDate>Fri, 28 May 2021 17:00:00 +0200</lastBuildDate><atom:link href="https://hairlessinthecloud.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>069 - DrAzureAD and AADInternals</title>
-      <link>https://hairlessinthecloud.github.io/post/069-drazureadandaadinternals/</link>
-      <pubDate>Fri, 28 May 2021 17:00:00 +0200</pubDate>
-      
-      <guid>https://hairlessinthecloud.github.io/post/069-drazureadandaadinternals/</guid>
-      <description>&lt;p&gt;Dr. Nestori Syynimaa (Senior Principal Security Researcher at Secureworks)
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Hairless in the Cloud</title><link>https://hairlessinthecloud.github.io/post/</link><description>Recent content in Posts on Hairless in the Cloud</description><generator>Hugo -- gohugo.io</generator><language>de-DE</language><lastBuildDate>Fri, 28 May 2021 17:00:00 +0200</lastBuildDate><atom:link href="https://hairlessinthecloud.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>069 - DrAzureAD and AADInternals</title><link>https://hairlessinthecloud.github.io/post/069-drazureadandaadinternals/</link><pubDate>Fri, 28 May 2021 17:00:00 +0200</pubDate><guid>https://hairlessinthecloud.github.io/post/069-drazureadandaadinternals/</guid><description>&lt;p>Dr. Nestori Syynimaa (Senior Principal Security Researcher at Secureworks)
 Dr Azure AD, Identity Hacker and Blackhat Speaker
-From Finland, the Author of AADInternals -  Dr Nestori Syynimaa&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/DrAzureAD&#34;&gt;https://twitter.com/DrAzureAD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://o365blog.com/&#34;&gt;https://o365blog.com/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/nestori/&#34;&gt;https://www.linkedin.com/in/nestori/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe src=&#34;https://anchor.fm/hairlessinthecloud/embed/episodes/069---DrAzureAD-and-AADInternals-e11orqq&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    
-    <item>
-      <title>068 - Staying Up-to-Date with Christian</title>
-      <link>https://hairlessinthecloud.github.io/post/068-stayinguptodatewithchristian/</link>
-      <pubDate>Fri, 23 Apr 2021 17:00:00 +0200</pubDate>
-      
-      <guid>https://hairlessinthecloud.github.io/post/068-stayinguptodatewithchristian/</guid>
-      <description>&lt;p&gt;Christian Heim (Senior Customer Engineer bei Microsoft)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/christian-heim/&#34;&gt;https://www.linkedin.com/in/christian-heim/&lt;/a&gt;
-Christian Keller (Customer Engineer bei Microsoft)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/christian-keller-079b23173/&#34;&gt;https://www.linkedin.com/in/christian-keller-079b23173/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Staying on top of Office 365 Updates&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/staying-on-top-of-office-365-updates/ba-p/1201118&#34;&gt;https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/staying-on-top-of-office-365-updates/ba-p/1201118&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe src=&#34;https://anchor.fm/hairlessinthecloud/embed/episodes/068---Staying-Up-to-Date-with-Christian-evgrc8&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    
-    <item>
-      <title>067 - Microsoft Azure Security Center with Tom and Yuri</title>
-      <link>https://hairlessinthecloud.github.io/post/067-microsoftazuresecuritycenterwithtomandyuri/</link>
-      <pubDate>Fri, 16 Apr 2021 17:00:00 +0200</pubDate>
-      
-      <guid>https://hairlessinthecloud.github.io/post/067-microsoftazuresecuritycenterwithtomandyuri/</guid>
-      <description>&lt;p&gt;Yuri and Tom talk about Azure Security Center and their new book. Microsoft Azure Security Center, 3rd Edition available for pre-order now&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.microsoftpressstore.com/store/microsoft-azure-security-center-9780137343423&#34;&gt;https://www.microsoftpressstore.com/store/microsoft-azure-security-center-9780137343423&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe src=&#34;https://anchor.fm/hairlessinthecloud/embed/episodes/067---Microsoft-Azure-Security-Center-with-Tom-and-Yuri-ev1pq0&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    
-    <item>
-      <title>066 - Tooltime</title>
-      <link>https://hairlessinthecloud.github.io/post/066-tooltime/</link>
-      <pubDate>Mon, 29 Mar 2021 17:00:00 +0200</pubDate>
-      
-      <guid>https://hairlessinthecloud.github.io/post/066-tooltime/</guid>
-      <description>&lt;p&gt;Tim Taylor ist der Heimwerkerkönig und herrscht über die Werkzeuge (Tools). Jan und Marco haben auch Tools im Angebot!&lt;/p&gt;
-
-&lt;iframe src=&#34;https://anchor.fm/hairlessinthecloud/embed/episodes/066---Tooltime-etor6k&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    
-    <item>
-      <title>065 - Ignite 2021H1 Recap</title>
-      <link>https://hairlessinthecloud.github.io/post/065-ignite2021h1recap/</link>
-      <pubDate>Fri, 05 Mar 2021 17:00:00 +0200</pubDate>
-      
-      <guid>https://hairlessinthecloud.github.io/post/065-ignite2021h1recap/</guid>
-      <description>&lt;p&gt;Rückblick auf die schwächste Ignite aller Zeiten? Oder ist doch was dabei? Oliver Kieselbach und Niklas Nachmann unterstützen uns in der Analyse.&lt;/p&gt;
-
-&lt;iframe src=&#34;https://anchor.fm/hairlessinthecloud/embed/episodes/065---Ignite-2021H1-Recap-ermgqf&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    
-    <item>
-      <title>064 - Temporary Access Pass und VIVA</title>
-      <link>https://hairlessinthecloud.github.io/post/064-temporaryaccesspassundviva/</link>
-      <pubDate>Fri, 19 Feb 2021 17:00:00 +0200</pubDate>
-      
-      <guid>https://hairlessinthecloud.github.io/post/064-temporaryaccesspassundviva/</guid>
-      <description>&lt;p&gt;Temporäre Passwörter und Microsoft Viva. Ole!&lt;/p&gt;
-
-&lt;iframe src=&#34;https://anchor.fm/hairlessinthecloud/embed/episodes/064---Temporary-Access-Pass-und-VIVA-eql8oq&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    
-    <item>
-      <title>063 - Script that und Escalate it</title>
-      <link>https://hairlessinthecloud.github.io/post/063-scriptthatundescalateit/</link>
-      <pubDate>Fri, 29 Jan 2021 10:10:10 +0100</pubDate>
-      
-      <guid>https://hairlessinthecloud.github.io/post/063-scriptthatundescalateit/</guid>
-      <description>&lt;p&gt;Hohe Rechte und Skripting? Was soll da schon schief gehen.&lt;/p&gt;
-
-&lt;iframe src=&#34;https://anchor.fm/hairlessinthecloud/embed/episodes/063---Script-that-und-Escalate-it-eplahp&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    
-    <item>
-      <title>062 - Tech Tabu Xmas Special mit GeekSprech</title>
-      <link>https://hairlessinthecloud.github.io/post/062-techtabuxmasspecialmitgeeksprech/</link>
-      <pubDate>Fri, 18 Dec 2020 10:10:10 +0100</pubDate>
-      
-      <guid>https://hairlessinthecloud.github.io/post/062-techtabuxmasspecialmitgeeksprech/</guid>
-      <description>&lt;p&gt;In der letzten Folge für 2020 haben wir mit den Kollegen von Geeksprech einen Runde Tech Tabu gespielt. Hört mal rein, wir haben euch die Tabu Begriff eingespielt, damit ihr das Geschehen besser verfolgen könnt.&lt;/p&gt;
-
-&lt;iframe src=&#34;https://anchor.fm/hairlessinthecloud/embed/episodes/062---Tech-Tabu-Xmas-Special-mit-GeekSprech-envv73&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    
-    <item>
-      <title>061 - Oliver Kieselbach über Autopilot</title>
-      <link>https://hairlessinthecloud.github.io/post/061-oliverkieselbach%C3%BCberautopilot/</link>
-      <pubDate>Fri, 04 Dec 2020 10:10:10 +0100</pubDate>
-      
-      <guid>https://hairlessinthecloud.github.io/post/061-oliverkieselbach%C3%BCberautopilot/</guid>
-      <description>&lt;p&gt;Oliver Kieselbach MVP (Lead Cloud Architect at glueckkanja-gab)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/okieselb&#34;&gt;https://twitter.com/okieselb&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://oliverkieselbach.com&#34;&gt;https://oliverkieselbach.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://oliverkieselbach.com/2020/12/08/autopilot-manager&#34;&gt;https://oliverkieselbach.com/2020/12/08/autopilot-manager&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/mem/autopilot/windows-autopilot&#34;&gt;https://docs.microsoft.com/en-us/mem/autopilot/windows-autopilot&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe src=&#34;https://anchor.fm/hairlessinthecloud/embed/episodes/061---Oliver-Kieselbach-ber-Autopilot-encc5v&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    
-    <item>
-      <title>060 - Ragnar Heil streamt</title>
-      <link>https://hairlessinthecloud.github.io/post/060-ragnarheilstreamt/</link>
-      <pubDate>Fri, 27 Nov 2020 10:10:10 +0100</pubDate>
-      
-      <guid>https://hairlessinthecloud.github.io/post/060-ragnarheilstreamt/</guid>
-      <description>&lt;p&gt;Ragnar Heil (Channel Account Manager EMEA Central bei Quest)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/ragnarh&#34;&gt;https://twitter.com/ragnarh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ragnarheil.de/&#34;&gt;https://ragnarheil.de/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe src=&#34;https://anchor.fm/hairlessinthecloud/embed/episodes/060---Ragnar-Heil-streamt-en1vvf&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    
-    <item>
-      <title>059 - FritzBox2Sentinel und ProductivityScore</title>
-      <link>https://hairlessinthecloud.github.io/post/059-fritzbox2sentinelundproductivityscore/</link>
-      <pubDate>Fri, 20 Nov 2020 10:10:10 +0100</pubDate>
-      
-      <guid>https://hairlessinthecloud.github.io/post/059-fritzbox2sentinelundproductivityscore/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;News&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://emptydc.com/2020/11/13/fritzbox-2-sentinel/&#34;&gt;Fritzbox 2 Sentinal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/microsoft-365/admin/productivity/productivity-score?view=o365-worldwide&#34;&gt;Productivity Score&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe src=&#34;https://anchor.fm/hairlessinthecloud/embed/episodes/059---FritzBox2Sentinel-und-ProductivityScore-emontm&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+From Finland, the Author of AADInternals - Dr Nestori Syynimaa&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://twitter.com/DrAzureAD">https://twitter.com/DrAzureAD&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://o365blog.com/">https://o365blog.com/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/in/nestori/">https://www.linkedin.com/in/nestori/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;iframe src="https://anchor.fm/hairlessinthecloud/embed/episodes/069---DrAzureAD-and-AADInternals-e11orqq" width="100%" frameborder="0" scrolling="no">&lt;/iframe></description></item><item><title>068 - Staying Up-to-Date with Christian</title><link>https://hairlessinthecloud.github.io/post/068-stayinguptodatewithchristian/</link><pubDate>Fri, 23 Apr 2021 17:00:00 +0200</pubDate><guid>https://hairlessinthecloud.github.io/post/068-stayinguptodatewithchristian/</guid><description>&lt;p>Christian Heim (Senior Customer Engineer bei Microsoft)&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.linkedin.com/in/christian-heim/">https://www.linkedin.com/in/christian-heim/&lt;/a>
+Christian Keller (Customer Engineer bei Microsoft)&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/in/christian-keller-079b23173/">https://www.linkedin.com/in/christian-keller-079b23173/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Staying on top of Office 365 Updates&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/staying-on-top-of-office-365-updates/ba-p/1201118">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/staying-on-top-of-office-365-updates/ba-p/1201118&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;iframe src="https://anchor.fm/hairlessinthecloud/embed/episodes/068---Staying-Up-to-Date-with-Christian-evgrc8" width="100%" frameborder="0" scrolling="no">&lt;/iframe></description></item><item><title>067 - Microsoft Azure Security Center with Tom and Yuri</title><link>https://hairlessinthecloud.github.io/post/067-microsoftazuresecuritycenterwithtomandyuri/</link><pubDate>Fri, 16 Apr 2021 17:00:00 +0200</pubDate><guid>https://hairlessinthecloud.github.io/post/067-microsoftazuresecuritycenterwithtomandyuri/</guid><description>&lt;p>Yuri and Tom talk about Azure Security Center and their new book. Microsoft Azure Security Center, 3rd Edition available for pre-order now&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.microsoftpressstore.com/store/microsoft-azure-security-center-9780137343423">https://www.microsoftpressstore.com/store/microsoft-azure-security-center-9780137343423&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;iframe src="https://anchor.fm/hairlessinthecloud/embed/episodes/067---Microsoft-Azure-Security-Center-with-Tom-and-Yuri-ev1pq0" width="100%" frameborder="0" scrolling="no">&lt;/iframe></description></item><item><title>066 - Tooltime</title><link>https://hairlessinthecloud.github.io/post/066-tooltime/</link><pubDate>Mon, 29 Mar 2021 17:00:00 +0200</pubDate><guid>https://hairlessinthecloud.github.io/post/066-tooltime/</guid><description>&lt;p>Tim Taylor ist der Heimwerkerkönig und herrscht über die Werkzeuge (Tools). Jan und Marco haben auch Tools im Angebot!&lt;/p>
+&lt;iframe src="https://anchor.fm/hairlessinthecloud/embed/episodes/066---Tooltime-etor6k" width="100%" frameborder="0" scrolling="no">&lt;/iframe></description></item><item><title>065 - Ignite 2021H1 Recap</title><link>https://hairlessinthecloud.github.io/post/065-ignite2021h1recap/</link><pubDate>Fri, 05 Mar 2021 17:00:00 +0200</pubDate><guid>https://hairlessinthecloud.github.io/post/065-ignite2021h1recap/</guid><description>&lt;p>Rückblick auf die schwächste Ignite aller Zeiten? Oder ist doch was dabei? Oliver Kieselbach und Niklas Nachmann unterstützen uns in der Analyse.&lt;/p>
+&lt;iframe src="https://anchor.fm/hairlessinthecloud/embed/episodes/065---Ignite-2021H1-Recap-ermgqf" width="100%" frameborder="0" scrolling="no">&lt;/iframe></description></item><item><title>064 - Temporary Access Pass und VIVA</title><link>https://hairlessinthecloud.github.io/post/064-temporaryaccesspassundviva/</link><pubDate>Fri, 19 Feb 2021 17:00:00 +0200</pubDate><guid>https://hairlessinthecloud.github.io/post/064-temporaryaccesspassundviva/</guid><description>&lt;p>Temporäre Passwörter und Microsoft Viva. Ole!&lt;/p>
+&lt;iframe src="https://anchor.fm/hairlessinthecloud/embed/episodes/064---Temporary-Access-Pass-und-VIVA-eql8oq" width="100%" frameborder="0" scrolling="no">&lt;/iframe></description></item><item><title>063 - Script that und Escalate it</title><link>https://hairlessinthecloud.github.io/post/063-scriptthatundescalateit/</link><pubDate>Fri, 29 Jan 2021 10:10:10 +0100</pubDate><guid>https://hairlessinthecloud.github.io/post/063-scriptthatundescalateit/</guid><description>&lt;p>Hohe Rechte und Skripting? Was soll da schon schief gehen.&lt;/p>
+&lt;iframe src="https://anchor.fm/hairlessinthecloud/embed/episodes/063---Script-that-und-Escalate-it-eplahp" width="100%" frameborder="0" scrolling="no">&lt;/iframe></description></item><item><title>062 - Tech Tabu Xmas Special mit GeekSprech</title><link>https://hairlessinthecloud.github.io/post/062-techtabuxmasspecialmitgeeksprech/</link><pubDate>Fri, 18 Dec 2020 10:10:10 +0100</pubDate><guid>https://hairlessinthecloud.github.io/post/062-techtabuxmasspecialmitgeeksprech/</guid><description>&lt;p>In der letzten Folge für 2020 haben wir mit den Kollegen von Geeksprech einen Runde Tech Tabu gespielt. Hört mal rein, wir haben euch die Tabu Begriff eingespielt, damit ihr das Geschehen besser verfolgen könnt.&lt;/p>
+&lt;iframe src="https://anchor.fm/hairlessinthecloud/embed/episodes/062---Tech-Tabu-Xmas-Special-mit-GeekSprech-envv73" width="100%" frameborder="0" scrolling="no">&lt;/iframe></description></item><item><title>061 - Oliver Kieselbach über Autopilot</title><link>https://hairlessinthecloud.github.io/post/061-oliverkieselbach%C3%BCberautopilot/</link><pubDate>Fri, 04 Dec 2020 10:10:10 +0100</pubDate><guid>https://hairlessinthecloud.github.io/post/061-oliverkieselbach%C3%BCberautopilot/</guid><description>&lt;p>Oliver Kieselbach MVP (Lead Cloud Architect at glueckkanja-gab)&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://twitter.com/okieselb">https://twitter.com/okieselb&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://oliverkieselbach.com">https://oliverkieselbach.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://oliverkieselbach.com/2020/12/08/autopilot-manager">https://oliverkieselbach.com/2020/12/08/autopilot-manager&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.microsoft.com/en-us/mem/autopilot/windows-autopilot">https://docs.microsoft.com/en-us/mem/autopilot/windows-autopilot&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;iframe src="https://anchor.fm/hairlessinthecloud/embed/episodes/061---Oliver-Kieselbach-ber-Autopilot-encc5v" width="100%" frameborder="0" scrolling="no">&lt;/iframe></description></item><item><title>060 - Ragnar Heil streamt</title><link>https://hairlessinthecloud.github.io/post/060-ragnarheilstreamt/</link><pubDate>Fri, 27 Nov 2020 10:10:10 +0100</pubDate><guid>https://hairlessinthecloud.github.io/post/060-ragnarheilstreamt/</guid><description>&lt;p>Ragnar Heil (Channel Account Manager EMEA Central bei Quest)&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://twitter.com/ragnarh">https://twitter.com/ragnarh&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ragnarheil.de/">https://ragnarheil.de/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;iframe src="https://anchor.fm/hairlessinthecloud/embed/episodes/060---Ragnar-Heil-streamt-en1vvf" width="100%" frameborder="0" scrolling="no">&lt;/iframe></description></item><item><title>059 - FritzBox2Sentinel und ProductivityScore</title><link>https://hairlessinthecloud.github.io/post/059-fritzbox2sentinelundproductivityscore/</link><pubDate>Fri, 20 Nov 2020 10:10:10 +0100</pubDate><guid>https://hairlessinthecloud.github.io/post/059-fritzbox2sentinelundproductivityscore/</guid><description>&lt;ul>
+&lt;li>News&lt;/li>
+&lt;li>&lt;a href="https://emptydc.com/2020/11/13/fritzbox-2-sentinel/">Fritzbox 2 Sentinal&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.microsoft.com/en-us/microsoft-365/admin/productivity/productivity-score?view=o365-worldwide">Productivity Score&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;iframe src="https://anchor.fm/hairlessinthecloud/embed/episodes/059---FritzBox2Sentinel-und-ProductivityScore-emontm" width="100%" frameborder="0" scrolling="no">&lt;/iframe></description></item></channel></rss>
